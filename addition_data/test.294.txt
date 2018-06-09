@@ -1,0 +1,48 @@
+Path
+93.4 %
+Pavement
+93.4 %
+Sidewalk
+93.4 %
+Walkway
+93.4 %
+Brick
+77.7 %
+Building
+71.4 %
+City
+71.4 %
+Town
+71.4 %
+Urban
+71.4 %
+Campus
+69.1 %
+Alley
+68 %
+Alleyway
+68 %
+Road
+68 %
+Street
+68 %
+House
+63.8 %
+Housing
+63.8 %
+Villa
+63.8 %
+Dirt Road
+55 %
+Gravel
+55 %
+Neighborhood
+54.6 %
+Apartment Building
+53.1 %
+High Rise
+53.1 %
+Flagstone
+51.4 %
+Downtown
+50.6 %

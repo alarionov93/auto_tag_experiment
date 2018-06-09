@@ -1,0 +1,18 @@
+Campus
+61.5 %
+Flagstone
+57.3 %
+Path
+50.9 %
+Walkway
+50.9 %
+Building
+50.7 %
+Fence
+50.6 %
+Flora
+50.6 %
+Hedge
+50.6 %
+Plant
+50.6 %

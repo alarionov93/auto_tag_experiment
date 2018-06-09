@@ -1,0 +1,38 @@
+Bubble
+99.3 %
+Flora
+68.2 %
+Oak
+68.2 %
+Plant
+68.2 %
+Sycamore
+68.2 %
+Tree
+68.2 %
+Forest
+57.3 %
+Jungle
+57.3 %
+Land
+57.3 %
+Nature
+57.3 %
+Outdoors
+57.3 %
+Vegetation
+57.3 %
+Conifer
+53 %
+Yew
+53 %
+Pine
+52.8 %
+Fence
+51.5 %
+Hedge
+51.5 %
+Rainforest
+50.8 %
+Vine
+50.7 %

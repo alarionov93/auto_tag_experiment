@@ -1,0 +1,18 @@
+Studio
+98.9 %
+Human
+98.7 %
+People
+98.7 %
+Person
+98.7 %
+Computer
+67.5 %
+Electronics
+67.5 %
+Pc
+67.5 %
+Laptop
+56.6 %
+Face
+51 %

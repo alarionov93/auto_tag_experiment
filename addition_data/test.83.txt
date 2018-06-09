@@ -1,0 +1,60 @@
+Beach
+99 %
+Coast
+99 %
+Nature
+99 %
+Ocean
+99 %
+Outdoors
+99 %
+Sea
+99 %
+Water
+99 %
+Beach Wagon
+97 %
+Carriage
+97 %
+Transportation
+97 %
+Vehicle
+97 %
+Wagon
+97 %
+Chair
+92.5 %
+Furniture
+92.5 %
+Leisure Activities
+79.4 %
+Balcony
+54.9 %
+Dock
+54.6 %
+Pier
+54.6 %
+Vessel
+53 %
+Watercraft
+53 %
+Yacht
+53 %
+Sand
+52.4 %
+Soil
+52.4 %
+Building
+50.9 %
+Housing
+50.9 %
+Hotel
+50.8 %
+Resort
+50.8 %
+Harbor
+50.7 %
+Port
+50.7 %
+Waterfront
+50.7 %

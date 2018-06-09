@@ -1,0 +1,38 @@
+Train
+90.3 %
+Transportation
+90.3 %
+Vehicle
+90.3 %
+Canopy
+66.9 %
+Awning
+61.7 %
+Engine
+51.7 %
+Machine
+51.7 %
+Motor
+51.7 %
+Freight Car
+51.6 %
+Shipping Container
+51.6 %
+Building
+51.6 %
+Housing
+51.5 %
+Backyard
+51.2 %
+Outdoors
+51.2 %
+Yard
+51.2 %
+City
+50.6 %
+Downtown
+50.6 %
+Town
+50.6 %
+Urban
+50.6 %

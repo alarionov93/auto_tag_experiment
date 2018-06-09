@@ -1,0 +1,42 @@
+Automobile
+94.7 %
+Cab
+94.7 %
+Car
+94.7 %
+Taxi
+94.7 %
+Transportation
+94.7 %
+Vehicle
+94.7 %
+Sedan
+63.9 %
+Suv
+62.7 %
+Van
+55.1 %
+Antique Car
+53.8 %
+Caravan
+52.8 %
+Building
+51.8 %
+Architecture
+51.6 %
+City
+51.6 %
+Downtown
+51.6 %
+Plaza
+51.6 %
+Town
+51.6 %
+Town Square
+51.6 %
+Urban
+51.6 %
+Apartment Building
+50.6 %
+High Rise
+50.6 %

@@ -1,0 +1,44 @@
+Beach
+98.7 %
+Coast
+98.7 %
+Nature
+98.7 %
+Ocean
+98.7 %
+Outdoors
+98.7 %
+Sea
+98.7 %
+Water
+98.7 %
+Clothing
+74.4 %
+Coat
+74.4 %
+Raincoat
+74.4 %
+Leisure Activities
+60 %
+Sand
+57.8 %
+Soil
+57.8 %
+Buggy
+51.5 %
+Transportation
+51.5 %
+Vehicle
+51.5 %
+Human
+51.4 %
+Person
+51.4 %
+Tourist
+51.4 %
+Building
+51.1 %
+Hotel
+51.1 %
+Resort
+51.1 %

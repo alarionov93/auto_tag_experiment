@@ -1,0 +1,26 @@
+Blossom
+82.7 %
+Flora
+82.7 %
+Flower
+82.7 %
+Plant
+82.7 %
+Carnation
+69.5 %
+Poppy
+67.5 %
+Grass
+52.4 %
+Asteraceae
+51.1 %
+Dandelion
+51 %
+Dahlia
+51 %
+Petal
+50.8 %
+Aster
+50.7 %
+Anther
+50.6 %

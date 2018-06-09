@@ -1,0 +1,14 @@
+Box
+73.2 %
+Cardboard
+73.2 %
+Carton
+73.2 %
+Brochure
+63.5 %
+Flyer
+63.5 %
+Paper
+63.5 %
+Poster
+63.5 %

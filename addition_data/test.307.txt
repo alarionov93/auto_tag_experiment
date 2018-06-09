@@ -1,0 +1,22 @@
+Human
+99.2 %
+People
+99.2 %
+Person
+99.2 %
+Bonnet
+52 %
+Clothing
+52 %
+Hat
+52 %
+Face
+51.9 %
+Portrait
+51.9 %
+Art
+50.7 %
+Modern Art
+50.7 %
+Sun Hat
+50.5 %

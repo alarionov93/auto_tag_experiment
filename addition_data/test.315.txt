@@ -1,0 +1,12 @@
+Human
+98.9 %
+People
+98.9 %
+Person
+98.9 %
+Face
+53.9 %
+Portrait
+53.9 %
+Party
+51.7 %

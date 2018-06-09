@@ -1,0 +1,24 @@
+Flora
+77.3 %
+Grass
+77.3 %
+Plant
+77.3 %
+Field
+76.5 %
+Grassland
+76.5 %
+Outdoors
+76.5 %
+Countryside
+62.6 %
+Nature
+62.6 %
+Farm
+57 %
+Meadow
+57 %
+Rural
+57 %
+Vegetation
+51.2 %

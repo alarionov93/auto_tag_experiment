@@ -1,0 +1,20 @@
+Drinking Fountain
+97.1 %
+Fountain
+97.1 %
+Water
+97.1 %
+Path
+89.3 %
+Pavement
+89.3 %
+Sidewalk
+89.3 %
+Walkway
+89.3 %
+Asphalt
+52.6 %
+Tarmac
+52.6 %
+Trail
+50.8 %

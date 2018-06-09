@@ -1,0 +1,20 @@
+Human
+99.1 %
+People
+99.1 %
+Person
+99.1 %
+Art
+98.6 %
+Painting
+98.6 %
+Baby
+55.5 %
+Child
+55.5 %
+Kid
+55.5 %
+Face
+51.1 %
+Portrait
+51.1 %

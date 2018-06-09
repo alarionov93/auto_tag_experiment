@@ -1,0 +1,12 @@
+Animal
+65.5 %
+Cat
+65.5 %
+Mammal
+65.5 %
+Manx
+65.5 %
+Pet
+65.5 %
+Abyssinian
+54.1 %

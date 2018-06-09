@@ -1,0 +1,60 @@
+Human
+98.7 %
+People
+98.7 %
+Person
+98.7 %
+Dawn
+97 %
+Dusk
+97 %
+Nature
+97 %
+Outdoors
+97 %
+Red Sky
+97 %
+Sky
+97 %
+Sunrise
+97 %
+Sunset
+97 %
+Ocean
+61.7 %
+Sea
+61.7 %
+Water
+61.7 %
+Building
+54.8 %
+Hotel
+54.8 %
+Resort
+54.8 %
+Silhouette
+54.7 %
+Flora
+53.1 %
+Plant
+53.1 %
+Tree
+53.1 %
+City
+51.5 %
+Downtown
+51.5 %
+Town
+51.5 %
+Urban
+51.5 %
+Leisure Activities
+51.2 %
+Housing
+51 %
+Canopy
+50.9 %
+Dock
+50.8 %
+Pier
+50.8 %

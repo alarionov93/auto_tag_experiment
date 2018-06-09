@@ -1,0 +1,54 @@
+Flora
+78.1 %
+Plant
+78.1 %
+Tree
+78.1 %
+Cloud
+71.5 %
+Cumulus
+71.5 %
+Nature
+71.5 %
+Outdoors
+71.5 %
+Sky
+71.5 %
+Weather
+71.5 %
+Building
+66.1 %
+Countryside
+66.1 %
+Hut
+66.1 %
+Rural
+66.1 %
+Shack
+66.1 %
+Shelter
+66.1 %
+Freeway
+52.1 %
+Highway
+52.1 %
+Road
+52.1 %
+Housing
+51.2 %
+Dirt Road
+51 %
+Gravel
+51 %
+Oak
+51 %
+Forest
+50.8 %
+Land
+50.8 %
+Rainforest
+50.8 %
+Vegetation
+50.8 %
+Sycamore
+50.6 %

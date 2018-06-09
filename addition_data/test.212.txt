@@ -1,0 +1,26 @@
+Architecture
+99.1 %
+Bell Tower
+99.1 %
+Building
+99.1 %
+Tower
+99.1 %
+Human
+99 %
+People
+99 %
+Person
+99 %
+Leisure Activities
+88.4 %
+Walking
+88.4 %
+Clock Tower
+52 %
+Campus
+51.8 %
+Housing
+50.6 %
+Monastery
+50.6 %

@@ -1,0 +1,50 @@
+Birch
+99.3 %
+Flora
+99.3 %
+Plant
+99.3 %
+Tree
+99.3 %
+Tree Stump
+98.7 %
+Outdoors
+91.5 %
+Yard
+91.5 %
+Blossom
+78.7 %
+Flower
+78.7 %
+Geranium
+78.7 %
+Backyard
+56.3 %
+Pot
+53.3 %
+Conifer
+53 %
+Yew
+53 %
+Forest
+51.9 %
+Grove
+51.9 %
+Land
+51.9 %
+Nature
+51.9 %
+Vegetation
+51.9 %
+Flower Arrangement
+51.5 %
+Ornament
+51.5 %
+Soil
+51.2 %
+Furniture
+50.9 %
+Tabletop
+50.9 %
+Moss
+50.6 %

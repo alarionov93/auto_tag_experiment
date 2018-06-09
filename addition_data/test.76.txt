@@ -1,0 +1,50 @@
+Building
+69.2 %
+City
+69.2 %
+High Rise
+69.2 %
+Town
+69.2 %
+Urban
+69.2 %
+Warehouse
+67.7 %
+Architecture
+67.6 %
+Clock Tower
+67.6 %
+Tower
+67.6 %
+Housing
+59.4 %
+Office Building
+56.9 %
+Rubble
+56.2 %
+Traffic Jam
+54.8 %
+Downtown
+54.6 %
+Plaza
+54.6 %
+Town Square
+54.6 %
+Neighborhood
+53.5 %
+Convention Center
+51.7 %
+Apartment Building
+51.6 %
+Road
+51.4 %
+Street
+51.4 %
+Intersection
+51.2 %
+Engine
+50.6 %
+Machine
+50.6 %
+Motor
+50.6 %

@@ -1,0 +1,50 @@
+Flora
+98.5 %
+Jar
+98.5 %
+Plant
+98.5 %
+Potted Plant
+98.5 %
+Pottery
+98.5 %
+Vase
+98.5 %
+Bench
+89.4 %
+Apartment Building
+87.9 %
+Building
+87.9 %
+City
+87.9 %
+High Rise
+87.9 %
+Town
+87.9 %
+Urban
+87.9 %
+Construction
+84.6 %
+Scaffolding
+78.4 %
+Neighborhood
+57.9 %
+Housing
+56.9 %
+House
+52.1 %
+Mansion
+52.1 %
+Fence
+51.3 %
+Hedge
+51.3 %
+Road
+50.9 %
+Street
+50.9 %
+Office Building
+50.9 %
+Tree
+50.7 %

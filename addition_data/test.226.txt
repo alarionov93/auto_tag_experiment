@@ -1,0 +1,88 @@
+Architecture
+98.2 %
+Bell Tower
+98.2 %
+Building
+98.2 %
+Tower
+98.2 %
+Rubble
+92.7 %
+Animal
+68.9 %
+Reptile
+68.9 %
+Sea Life
+68.9 %
+Tortoise
+68.9 %
+Turtle
+68.9 %
+Flora
+68.1 %
+Moss
+68.1 %
+Plant
+68.1 %
+House
+64.5 %
+Housing
+64.5 %
+Villa
+64.5 %
+Ground
+62.6 %
+Soil
+62.6 %
+Forest
+60 %
+Land
+60 %
+Nature
+60 %
+Outdoors
+60 %
+Tree
+60 %
+Vegetation
+60 %
+Rock
+59.5 %
+Wilderness
+56.4 %
+Bush
+55 %
+Monastery
+54.7 %
+Mansion
+54 %
+Cottage
+53.1 %
+Conifer
+52.6 %
+Pine
+52.6 %
+City
+52.2 %
+Town
+52.2 %
+Urban
+52.2 %
+Yew
+51.9 %
+Oak
+51 %
+Sycamore
+51 %
+Grove
+50.9 %
+Rainforest
+50.8 %
+Landscape
+50.7 %
+Scenery
+50.7 %
+Path
+50.5 %
+Ruins
+50.5 %

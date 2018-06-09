@@ -1,0 +1,4 @@
+Gauge
+98.9 %
+Tachometer
+98.9 %

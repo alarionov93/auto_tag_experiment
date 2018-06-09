@@ -1,0 +1,24 @@
+Human
+99.2 %
+People
+99.2 %
+Person
+99.2 %
+Clothing
+97.6 %
+Coat
+97.6 %
+Overcoat
+97.6 %
+Suit
+97.6 %
+Afro Hairstyle
+87.7 %
+Hair
+87.7 %
+Face
+58 %
+Portrait
+58 %
+Tuxedo
+51.4 %

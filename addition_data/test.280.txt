@@ -1,0 +1,48 @@
+Blossom
+95.9 %
+Flora
+95.9 %
+Flower
+95.9 %
+Lilac
+95.9 %
+Plant
+95.9 %
+Tree
+74.8 %
+Path
+69.8 %
+Walkway
+69.8 %
+Fence
+67 %
+Hedge
+67 %
+Forest
+67 %
+Grove
+67 %
+Land
+67 %
+Nature
+67 %
+Outdoors
+67 %
+Vegetation
+67 %
+Lavender
+65.9 %
+Geranium
+63.4 %
+Oak
+62.8 %
+Flagstone
+59.7 %
+Park
+54.1 %
+Bush
+52.4 %
+Backyard
+51.1 %
+Yard
+51.1 %

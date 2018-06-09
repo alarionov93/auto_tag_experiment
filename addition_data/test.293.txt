@@ -1,0 +1,30 @@
+Canal
+93 %
+Outdoors
+93 %
+Water
+93 %
+Bridge
+75.3 %
+Building
+75.3 %
+Viaduct
+75.3 %
+Tunnel
+69.7 %
+Architecture
+65 %
+Castle
+65 %
+Fort
+65 %
+Freeway
+55.9 %
+Overpass
+55.9 %
+Road
+55.9 %
+Bell Tower
+51.9 %
+Tower
+51.9 %

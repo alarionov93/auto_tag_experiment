@@ -1,0 +1,74 @@
+Sundial
+94.5 %
+Brick
+83.2 %
+Banister
+73.3 %
+Handrail
+73.3 %
+Building
+71.9 %
+Housing
+62.9 %
+Flora
+62.5 %
+Plant
+62.5 %
+Vine
+62.5 %
+Apartment Building
+59.9 %
+City
+59.9 %
+High Rise
+59.9 %
+Town
+59.9 %
+Urban
+59.9 %
+Neighborhood
+58.7 %
+Window
+58.7 %
+Cafe
+58.6 %
+Restaurant
+58.6 %
+Siding
+58.2 %
+Granite
+57.7 %
+Office Building
+55.1 %
+Alley
+54.7 %
+Alleyway
+54.7 %
+Road
+54.7 %
+Street
+54.7 %
+Tree
+53.7 %
+Conifer
+52.5 %
+Pine
+52.5 %
+Den
+51.9 %
+Dog House
+51.9 %
+Kennel
+51.9 %
+Oak
+51.9 %
+Sycamore
+51.9 %
+Yew
+51.5 %
+Vegetation
+51.2 %
+House
+50.6 %
+Villa
+50.6 %

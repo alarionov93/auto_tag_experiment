@@ -1,0 +1,14 @@
+Bottle
+98.8 %
+Alcohol
+86.7 %
+Beer
+86.7 %
+Beer Bottle
+86.7 %
+Beverage
+86.7 %
+Drink
+86.7 %
+Glass
+60.5 %

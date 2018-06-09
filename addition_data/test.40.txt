@@ -1,0 +1,22 @@
+Plaque
+98.6 %
+Arch
+96.7 %
+Arched
+96.7 %
+Architecture
+96.7 %
+Building
+96.7 %
+Tile
+86.3 %
+Brick
+63 %
+Cathedral
+55.8 %
+Church
+55.8 %
+Worship
+55.8 %
+Office Building
+51.9 %

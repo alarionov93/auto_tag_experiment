@@ -1,0 +1,22 @@
+Buggy
+91.6 %
+Transportation
+91.6 %
+Vehicle
+91.6 %
+Outdoors
+78.8 %
+Snow
+78.8 %
+Automobile
+51.6 %
+Car
+51.6 %
+Jeep
+51.6 %
+Suv
+50.8 %
+Antique Car
+50.6 %
+Model T
+50.6 %

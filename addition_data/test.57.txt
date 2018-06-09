@@ -1,0 +1,40 @@
+Boot
+99 %
+Clothing
+99 %
+Footwear
+99 %
+Shoe
+99 %
+Flora
+98.2 %
+Jar
+98.2 %
+Plant
+98.2 %
+Potted Plant
+98.2 %
+Pottery
+98.2 %
+Vase
+98.2 %
+Art
+83.7 %
+Blossom
+83.7 %
+Flower
+83.7 %
+Flower Arrangement
+83.7 %
+Ikebana
+83.7 %
+Ornament
+83.7 %
+Cowboy Boot
+74.9 %
+Riding Boot
+74.9 %
+Cushion
+51.6 %
+Home Decor
+51.6 %

@@ -1,0 +1,26 @@
+Flora
+99.3 %
+Jar
+99.3 %
+Plant
+99.3 %
+Potted Plant
+99.3 %
+Pottery
+99.3 %
+Vase
+99.3 %
+Bench
+97.6 %
+Flagstone
+80.9 %
+Outdoors
+62 %
+Yard
+62 %
+Patio
+53.9 %
+Building
+51.6 %
+Housing
+51.6 %

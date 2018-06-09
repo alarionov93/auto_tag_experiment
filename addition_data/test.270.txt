@@ -1,0 +1,12 @@
+Birch
+99.2 %
+Flora
+99.2 %
+Plant
+99.2 %
+Tree
+99.2 %
+Oak
+54.8 %
+Sycamore
+54.8 %

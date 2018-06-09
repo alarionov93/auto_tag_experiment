@@ -1,0 +1,100 @@
+Architecture
+89.2 %
+Bell Tower
+89.2 %
+Building
+89.2 %
+Tower
+89.2 %
+Flora
+80.4 %
+Forest
+80.4 %
+Land
+80.4 %
+Nature
+80.4 %
+Outdoors
+80.4 %
+Plant
+80.4 %
+Rainforest
+80.4 %
+Tree
+80.4 %
+Vegetation
+80.4 %
+Countryside
+73.7 %
+Hut
+73.7 %
+Rural
+73.7 %
+Shack
+73.7 %
+Shelter
+73.7 %
+Spire
+72.8 %
+Steeple
+72.8 %
+Conifer
+64.5 %
+Yew
+64.5 %
+Jungle
+64.4 %
+Stream
+63.1 %
+Water
+63.1 %
+Cottage
+60.9 %
+House
+60.9 %
+Housing
+60.9 %
+Vine
+57.1 %
+Church
+55.7 %
+Worship
+55.7 %
+Dome
+55.5 %
+Mosque
+55.5 %
+Oak
+54.6 %
+Sycamore
+54.6 %
+Cabin
+54.5 %
+Log Cabin
+54.5 %
+Moss
+53.2 %
+Bush
+53.1 %
+Fence
+52.9 %
+Hedge
+52.9 %
+Monastery
+52.5 %
+Cathedral
+52.1 %
+Dirt Road
+51.7 %
+Gravel
+51.7 %
+Road
+51.7 %
+Wilderness
+50.8 %
+Urban
+50.7 %
+Grove
+50.6 %
+Path
+50.6 %

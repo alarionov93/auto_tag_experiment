@@ -1,0 +1,14 @@
+Mailbox
+93.5 %
+Postbox
+93.5 %
+Furniture
+57.4 %
+Building
+53 %
+Console
+51.7 %
+Electronics
+51.7 %
+Brick
+50.7 %

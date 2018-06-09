@@ -1,0 +1,60 @@
+Apartment Building
+65.4 %
+Building
+65.4 %
+City
+65.4 %
+High Rise
+65.4 %
+Town
+65.4 %
+Urban
+65.4 %
+Road
+58.9 %
+Street
+58.9 %
+Path
+58.3 %
+Pavement
+58.3 %
+Sidewalk
+58.3 %
+Walkway
+58.3 %
+Alley
+54.1 %
+Alleyway
+54.1 %
+Architecture
+53.5 %
+Castle
+53.5 %
+House
+53.5 %
+Housing
+53.5 %
+Mansion
+53.5 %
+Palace
+53.5 %
+Downtown
+52.9 %
+Office Building
+51.9 %
+Column
+50.8 %
+Parthenon
+50.8 %
+Pillar
+50.8 %
+Shrine
+50.8 %
+Temple
+50.8 %
+Worship
+50.8 %
+Neighborhood
+50.5 %
+Intersection
+50.5 %

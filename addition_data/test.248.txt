@@ -1,0 +1,54 @@
+Bridge
+73.8 %
+Building
+73.8 %
+Train
+66.2 %
+Transportation
+66.2 %
+Vehicle
+66.2 %
+Outdoors
+65.7 %
+Pond
+65.7 %
+Water
+65.7 %
+Bush
+57.8 %
+Flora
+57.8 %
+Plant
+57.8 %
+Vegetation
+57.8 %
+Canal
+56 %
+Dirt Road
+55.5 %
+Gravel
+55.5 %
+Road
+55.5 %
+Land
+55.1 %
+Marsh
+55.1 %
+Swamp
+55.1 %
+Freeway
+54 %
+Overpass
+54 %
+Landscape
+53.8 %
+Nature
+53.8 %
+Scenery
+53.8 %
+Countryside
+52.8 %
+Grass
+51 %
+Tree
+50.7 %

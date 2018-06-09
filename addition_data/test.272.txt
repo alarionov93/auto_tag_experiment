@@ -1,0 +1,30 @@
+Canal
+89.4 %
+Outdoors
+89.4 %
+Water
+89.4 %
+Architecture
+58.4 %
+Building
+58.4 %
+Castle
+58.4 %
+Fort
+58.4 %
+Moat
+58.4 %
+River
+53 %
+Landscape
+51.7 %
+Nature
+51.7 %
+Scenery
+51.7 %
+Flora
+51.1 %
+Plant
+51.1 %
+Vegetation
+51.1 %

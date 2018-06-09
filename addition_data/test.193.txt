@@ -1,0 +1,32 @@
+Building
+87.7 %
+City
+87.7 %
+Town
+87.7 %
+Urban
+87.7 %
+Downtown
+63 %
+High Rise
+59.4 %
+Housing
+55.4 %
+Neighborhood
+52.8 %
+Apartment Building
+52.2 %
+Landscape
+51.5 %
+Nature
+51.5 %
+Outdoors
+51.5 %
+Scenery
+51.5 %
+Metropolis
+50.8 %
+Intersection
+50.6 %
+Road
+50.6 %

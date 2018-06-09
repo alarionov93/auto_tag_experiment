@@ -1,0 +1,34 @@
+Human
+98.2 %
+People
+98.2 %
+Person
+98.2 %
+Fireplace
+95.6 %
+Hearth
+95.6 %
+Clothing
+82.5 %
+Coat
+82.5 %
+Overcoat
+82.5 %
+Suit
+82.5 %
+Face
+70.2 %
+Portrait
+70.2 %
+Weapon
+53 %
+Console
+52 %
+Electronics
+52 %
+Denim
+51.2 %
+Jeans
+51.2 %
+Pants
+51.2 %

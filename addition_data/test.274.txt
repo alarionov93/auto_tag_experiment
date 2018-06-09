@@ -1,0 +1,54 @@
+Building
+73.1 %
+House
+73.1 %
+Housing
+73.1 %
+Villa
+73.1 %
+Mansion
+72.2 %
+Bench
+70.7 %
+Apartment Building
+61 %
+City
+61 %
+High Rise
+61 %
+Town
+61 %
+Urban
+61 %
+Gate
+57.6 %
+Neighborhood
+54.4 %
+Alley
+53.4 %
+Alleyway
+53.4 %
+Road
+53.4 %
+Street
+53.4 %
+Architecture
+52.8 %
+Bell Tower
+52.8 %
+Tower
+52.8 %
+Campus
+52.2 %
+Monastery
+52 %
+Flora
+50.6 %
+Plant
+50.6 %
+Tree
+50.6 %
+Column
+50.5 %
+Pillar
+50.5 %

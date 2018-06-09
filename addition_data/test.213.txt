@@ -1,0 +1,46 @@
+Building
+83.6 %
+House
+83.6 %
+Housing
+83.6 %
+Villa
+83.6 %
+Dirt Road
+83.4 %
+Gravel
+83.4 %
+Road
+83.4 %
+Leisure Activities
+76.5 %
+Walking
+76.5 %
+Architecture
+55.2 %
+Mansion
+54.1 %
+Apartment Building
+54 %
+City
+54 %
+High Rise
+54 %
+Town
+54 %
+Urban
+54 %
+Downtown
+53.4 %
+Plaza
+53.4 %
+Town Square
+53.4 %
+Monastery
+53.1 %
+Office Building
+50.9 %
+Church
+50.7 %
+Worship
+50.7 %

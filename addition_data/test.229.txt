@@ -1,0 +1,18 @@
+Dirt Road
+98.1 %
+Gravel
+98.1 %
+Road
+98.1 %
+Freeway
+53.1 %
+Highway
+53.1 %
+Flora
+52.5 %
+Grass
+52.5 %
+Plant
+52.5 %
+Path
+51.5 %

@@ -1,0 +1,20 @@
+Sign
+65.5 %
+Brochure
+65.4 %
+Flyer
+65.4 %
+Paper
+65.4 %
+Poster
+65.4 %
+Emblem
+53.2 %
+Human
+53 %
+Pedestrian
+53 %
+Person
+53 %
+Text
+50.7 %

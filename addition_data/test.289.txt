@@ -1,0 +1,50 @@
+Art
+98.3 %
+Sculpture
+98.3 %
+Human
+98.2 %
+People
+98.2 %
+Person
+98.2 %
+Monument
+91.1 %
+Bridge
+68.6 %
+Building
+68.6 %
+Suspension Bridge
+68.6 %
+Asphalt
+65.7 %
+Tarmac
+65.7 %
+Fountain
+57.5 %
+Water
+57.5 %
+Architecture
+53.6 %
+Convention Center
+53.6 %
+Office Building
+53.6 %
+Modern Art
+53.3 %
+Gate
+51.2 %
+Flora
+51 %
+Oak
+51 %
+Plant
+51 %
+Sycamore
+51 %
+Tree
+51 %
+Hotel
+50.6 %
+Resort
+50.6 %

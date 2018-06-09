@@ -1,0 +1,32 @@
+Automobile
+79.7 %
+Car
+79.7 %
+Transportation
+79.7 %
+Vehicle
+79.7 %
+Outdoors
+65.2 %
+Yard
+65.2 %
+Van
+58.1 %
+Soil
+57.4 %
+Antique Car
+52.2 %
+Suv
+52.2 %
+Sedan
+51.1 %
+Flora
+50.9 %
+Plant
+50.9 %
+Building
+50.6 %
+Neighborhood
+50.6 %
+Urban
+50.6 %

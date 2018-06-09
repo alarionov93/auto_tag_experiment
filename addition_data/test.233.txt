@@ -1,0 +1,28 @@
+Flora
+91.6 %
+Forest
+91.6 %
+Land
+91.6 %
+Nature
+91.6 %
+Outdoors
+91.6 %
+Plant
+91.6 %
+Tree
+91.6 %
+Vegetation
+91.6 %
+Conifer
+65.2 %
+Oak
+58.8 %
+Birch
+53 %
+Grove
+52.4 %
+Jungle
+52.2 %
+Rainforest
+51.7 %

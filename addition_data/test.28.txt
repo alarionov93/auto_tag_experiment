@@ -1,0 +1,62 @@
+Automobile
+97.6 %
+Car
+97.6 %
+Transportation
+97.6 %
+Vehicle
+97.6 %
+Conifer
+82.1 %
+Flora
+82.1 %
+Plant
+82.1 %
+Tree
+82.1 %
+Dirt Road
+75.7 %
+Gravel
+75.7 %
+Road
+75.7 %
+Buggy
+69.1 %
+Offroad
+61.8 %
+Forest
+59.8 %
+Land
+59.8 %
+Nature
+59.8 %
+Outdoors
+59.8 %
+Vegetation
+59.8 %
+Sedan
+54.4 %
+Suv
+53.5 %
+Oak
+51.7 %
+Sycamore
+51.7 %
+Path
+51.7 %
+Grove
+51.4 %
+Intersection
+51.4 %
+Bush
+51.3 %
+Pine
+51.2 %
+Abies
+50.8 %
+Fir
+50.8 %
+Caravan
+50.6 %
+Van
+50.6 %

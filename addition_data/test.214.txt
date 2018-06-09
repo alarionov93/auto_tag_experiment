@@ -1,0 +1,36 @@
+Human
+99.1 %
+People
+99.1 %
+Person
+99.1 %
+Building
+96.7 %
+House
+96.7 %
+Housing
+96.7 %
+Mansion
+96.7 %
+Architecture
+72.7 %
+Bell Tower
+72.7 %
+Tower
+72.7 %
+Crowd
+71.4 %
+Countryside
+67.1 %
+Nature
+67.1 %
+Outdoors
+67.1 %
+Rural
+67.1 %
+Shelter
+67.1 %
+Villa
+54.9 %
+Bunker
+53.4 %

@@ -1,0 +1,54 @@
+Backyard
+98.4 %
+Outdoors
+98.4 %
+Yard
+98.4 %
+Building
+96.8 %
+Cottage
+96.8 %
+House
+96.8 %
+Housing
+96.8 %
+Flora
+84.8 %
+Jar
+84.8 %
+Plant
+84.8 %
+Potted Plant
+84.8 %
+Pottery
+84.8 %
+Vase
+84.8 %
+Ivy
+80.3 %
+Villa
+62.5 %
+Chair
+60.7 %
+Furniture
+60.7 %
+Bush
+57.1 %
+Vegetation
+57.1 %
+Vine
+51.4 %
+Neighborhood
+51.2 %
+Urban
+51.2 %
+Countryside
+51 %
+Nature
+51 %
+Architecture
+50.8 %
+Church
+50.8 %
+Worship
+50.8 %

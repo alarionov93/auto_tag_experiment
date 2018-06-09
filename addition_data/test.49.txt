@@ -1,0 +1,28 @@
+Dirt Road
+93.2 %
+Gravel
+93.2 %
+Road
+93.2 %
+Path
+79.8 %
+Trail
+56 %
+Countryside
+50.9 %
+Nature
+50.9 %
+Outdoors
+50.9 %
+Flora
+50.7 %
+Forest
+50.7 %
+Land
+50.7 %
+Plant
+50.7 %
+Tree
+50.7 %
+Vegetation
+50.7 %

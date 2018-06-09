@@ -1,0 +1,40 @@
+Flora
+98.7 %
+Jar
+98.7 %
+Plant
+98.7 %
+Potted Plant
+98.7 %
+Pottery
+98.7 %
+Vase
+98.7 %
+Path
+74.3 %
+Pavement
+74.3 %
+Sidewalk
+74.3 %
+Walkway
+74.3 %
+Intersection
+70.3 %
+Road
+70.3 %
+Building
+53.6 %
+Urban
+53.6 %
+Neighborhood
+52.1 %
+City
+51.2 %
+Downtown
+51.2 %
+Town
+51.2 %
+Architecture
+51.1 %
+Housing
+50.8 %

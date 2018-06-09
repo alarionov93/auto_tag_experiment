@@ -1,0 +1,44 @@
+Dill
+99.1 %
+Flora
+99.1 %
+Food
+99.1 %
+Plant
+99.1 %
+Seasoning
+99.1 %
+Canal
+95.9 %
+Outdoors
+95.9 %
+Water
+95.9 %
+Grass
+95.3 %
+Reed
+95.3 %
+Tree
+93.7 %
+Willow
+93.7 %
+Pond
+76.8 %
+Land
+53.1 %
+Marsh
+53.1 %
+Swamp
+53.1 %
+Arecaceae
+50.7 %
+Palm Tree
+50.7 %
+Forest
+50.5 %
+Nature
+50.5 %
+Rainforest
+50.5 %
+Vegetation
+50.5 %

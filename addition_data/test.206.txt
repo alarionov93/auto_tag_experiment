@@ -1,0 +1,28 @@
+Plywood
+89.1 %
+Wood
+89.1 %
+Flood
+86.1 %
+Nature
+86.1 %
+Boat
+62.3 %
+Rowboat
+62.3 %
+Transportation
+62.3 %
+Vessel
+62.3 %
+Watercraft
+62.3 %
+Train
+59.8 %
+Vehicle
+59.8 %
+Soil
+52 %
+Freight Car
+51.8 %
+Shipping Container
+51.8 %

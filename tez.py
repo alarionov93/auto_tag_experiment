@@ -1,4 +1,5 @@
 import requests
+import pickle
 
 tez = {
 	"солнце" :"звезда",
@@ -19,12 +20,28 @@ tez = {
 	"щенок" :"миленький",
 	"язык" :"орган чувств",
 	"уши" :"слух",
+	"женщина": "человек",
+	"клавиатура пишущей машинки": "Клавиатура",
 }
 
-dic = {
-	"drawing": "рисунок",
-	"cartoon": "мультфильм",
-}
+try:
+	dic = pickle.load(open('dictionary', 'rb'))
+except FileNotFoundError:
+	dic = {
+		"drawing": "рисунок",
+		"cartoon": "мультфильм",
+	}
+
+# for line in open('text.txt', 'r'):
+# 		h_sense, yandex, ash = line.split(';')
+# 		for h_word in h_sense.split(','):
+# 			for y_word in [translate(x) for x in yandex.split(',')]:
+# 				res = compare(h_word, y_word)
+# 				if res > 0.66:
+# 					# совпало
+# 				else:
+# 					try: 
+# 						# не совпало?
 
 class FuzzyDict(dict):
 	def __init__(self, items = None, cutoff = .6):
@@ -78,26 +95,46 @@ class FuzzyDict(dict):
 		return matched
 
 def translate(word):
-	try:
-		res = dic[word]
-	except KeyError:
-		params = {
-			"key": "trnsl.1.1.20180607T153100Z.4eaf3b366a2b9327.e9c3cea46c53de5f22b6df313f46cb237e03618b",
-			"text": word,
-			"lang": "en-ru"
-		}
-		resp = requests.get("https://translate.yandex.net/api/v1.5/tr.json/translate", params=params)
-		# print(j_resp)
-		translated = resp.json().get("text", None)
-		if translated:
-			length = len(translated[0].split(" "))
-			if length > 1:
-				# TODO
-				pass
+	import re
+	if re.match(r'[a-zA-Z ]+', word):	
+		try:
+			res = dic[word]
+		except KeyError:
+			params = {
+				"key": "trnsl.1.1.20180607T153100Z.4eaf3b366a2b9327.e9c3cea46c53de5f22b6df313f46cb237e03618b",
+				"text": word,
+				"lang": "en-ru"
+			}
+			resp = requests.get("https://translate.yandex.net/api/v1.5/tr.json/translate", params=params)
+			# print(j_resp)
+			translated = resp.json().get("text", None)
+			if translated:
+				length = len(translated[0].split(" "))
+				if length > 1:
+					res = translated[0]
+				else:
+					res = translated[0]
+				dic.update({word: res})
+				pickle.dump(dic, open('dictionary', 'wb'))
 			else:
-				res = translated[0]
+				res = word
+		return res
+	else:
+		return word
 
-	return res
+# def measure(self_tags, tags_to_compl)
+# 	for t_tag in [translate(x) for x in tags_to_compl.split(',')]:
+# 		for s_tag in self_tags.split(','):
+# 			res = compare(t_tag, s_tag)
+# 			if res > 0.66:
+# 				# совпало
+# 				pass
+# 			else:
+# 				try: 
+# 					# не совпало?
+# 					pass
+# 				except:
+# 					pass
 
 # try:
 # 	x = tez["рисунки"]
@@ -115,6 +152,29 @@ def translate(word):
 
 # t = translate("car")
 # print(t)
-d = FuzzyDict(items=tez)
-print(d.search("солнцезащитный"))
+if __name__ == '__main__':
+	d = FuzzyDict(items=tez)
+	tst_dct = [
+		"облако" ,
+		"цветок",
+		"строение",
+		"искусство",
+		"бумага",
+		"карандашный рисунок",
+		"абажур",
+		"емкость",
+		"конверт",
+		"солнцезащитный крем",
+		"одежда",
+		"собака",
+		"хвост",
+		"миленький",
+		"орган чувств",
+		"уши",
+	]
+	for w in tst_dct:
+		try:
+			print(d[w])
+		except:
+			pass
 

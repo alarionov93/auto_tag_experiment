@@ -1,0 +1,16 @@
+Pipeline
+89.8 %
+Bridge
+68.2 %
+Building
+68.2 %
+City
+52.8 %
+Town
+52.8 %
+Urban
+52.8 %
+Downtown
+52.1 %
+Housing
+51.9 %

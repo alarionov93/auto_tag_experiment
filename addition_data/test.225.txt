@@ -1,0 +1,58 @@
+Human
+99.1 %
+People
+99.1 %
+Person
+99.1 %
+Building
+97.8 %
+Cottage
+97.8 %
+House
+97.8 %
+Housing
+97.8 %
+Clothing
+93.9 %
+Kilt
+93.9 %
+Plaid
+93.9 %
+Skirt
+93.9 %
+Tartan
+93.9 %
+Solar Panels
+85.3 %
+Automobile
+79 %
+Car
+79 %
+Sedan
+79 %
+Transportation
+79 %
+Vehicle
+79 %
+Van
+70.1 %
+Roof
+54.4 %
+Suv
+53.9 %
+Caravan
+53 %
+Backyard
+52.4 %
+Outdoors
+52.4 %
+Yard
+52.4 %
+Flora
+50.9 %
+Grass
+50.9 %
+Plant
+50.9 %
+Antique Car
+50.8 %

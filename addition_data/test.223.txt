@@ -1,0 +1,84 @@
+Building
+98.7 %
+Cottage
+98.7 %
+House
+98.7 %
+Housing
+98.7 %
+Door
+93.2 %
+Flora
+90.9 %
+Plant
+90.9 %
+Vine
+90.9 %
+Porch
+87.7 %
+Countryside
+78.7 %
+Hut
+78.7 %
+Nature
+78.7 %
+Outdoors
+78.7 %
+Rural
+78.7 %
+Shack
+78.7 %
+Shelter
+78.7 %
+Ivy
+78 %
+Backyard
+55.6 %
+Yard
+55.6 %
+Jar
+53.6 %
+Potted Plant
+53.6 %
+Pottery
+53.6 %
+Vase
+53.6 %
+Balcony
+53.5 %
+Forest
+53 %
+Land
+53 %
+Tree
+53 %
+Vegetation
+53 %
+Blossom
+52.7 %
+Flower
+52.7 %
+Flower Arrangement
+52.7 %
+Ornament
+52.7 %
+Cabin
+51.1 %
+Arbour
+51 %
+Garden
+51 %
+Grove
+50.9 %
+Conifer
+50.9 %
+Yew
+50.9 %
+Oak
+50.7 %
+Sycamore
+50.7 %
+Fence
+50.6 %
+Hedge
+50.6 %

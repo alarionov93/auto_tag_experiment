@@ -1,0 +1,80 @@
+Flora
+85.6 %
+Jar
+85.6 %
+Plant
+85.6 %
+Potted Plant
+85.6 %
+Pottery
+85.6 %
+Vase
+85.6 %
+Garden
+80 %
+Gardening
+80 %
+Outdoors
+80 %
+Boat
+70.6 %
+Transportation
+70.6 %
+Vessel
+70.6 %
+Watercraft
+70.6 %
+Landslide
+66.3 %
+Nature
+66.3 %
+Park
+56.3 %
+Wilderness
+54.2 %
+Bonsai
+53.9 %
+Tree
+53.9 %
+Fog
+53.5 %
+Mist
+53.5 %
+Weather
+53.5 %
+Intersection
+52.4 %
+Road
+52.4 %
+Countryside
+52.1 %
+Rural
+52.1 %
+Plateau
+51.9 %
+Forge
+51.9 %
+Vegetation
+51.8 %
+Backyard
+51.7 %
+Yard
+51.7 %
+Fence
+51.2 %
+Hedge
+51.2 %
+Bush
+51.1 %
+Leisure Activities
+51.1 %
+Land
+51 %
+Ruins
+50.8 %
+Conifer
+50.6 %
+Herbs
+50.5 %
+Planter
+50.5 %

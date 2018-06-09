@@ -1,0 +1,34 @@
+Monument
+98.9 %
+Conifer
+84.7 %
+Flora
+84.7 %
+Plant
+84.7 %
+Spruce
+84.7 %
+Tree
+84.7 %
+Pine
+70.7 %
+Abies
+62.1 %
+Fir
+62.1 %
+Forest
+53.9 %
+Grove
+53.9 %
+Land
+53.9 %
+Nature
+53.9 %
+Outdoors
+53.9 %
+Vegetation
+53.9 %
+Road
+53.1 %
+Yew
+53 %

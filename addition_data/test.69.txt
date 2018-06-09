@@ -1,0 +1,74 @@
+Bench
+90.6 %
+Park Bench
+89.5 %
+Automobile
+67.4 %
+Car
+67.4 %
+Transportation
+67.4 %
+Vehicle
+67.4 %
+Flora
+59.4 %
+Plant
+59.4 %
+Tree
+59.4 %
+Oak
+59.3 %
+Sycamore
+59.3 %
+Forest
+58.8 %
+Grove
+58.8 %
+Land
+58.8 %
+Nature
+58.8 %
+Outdoors
+58.8 %
+Vegetation
+58.8 %
+Backyard
+57.5 %
+Yard
+57.5 %
+Tree Trunk
+54.6 %
+Sedan
+53.9 %
+Conifer
+52.3 %
+Pine
+52.3 %
+Engine
+52.1 %
+Machine
+52.1 %
+Motor
+52.1 %
+Bus
+51.8 %
+Minibus
+51.8 %
+Van
+51.8 %
+Suv
+51.6 %
+Rainforest
+51.4 %
+Caravan
+51 %
+Park
+51 %
+Jeep
+50.7 %
+Bumper
+50.6 %
+Yew
+50.6 %
+Grass
+50.6 %

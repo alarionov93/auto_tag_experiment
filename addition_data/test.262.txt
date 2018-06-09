@@ -1,0 +1,42 @@
+Human
+98.8 %
+People
+98.8 %
+Person
+98.8 %
+Building
+72.7 %
+House
+58.5 %
+Housing
+58.5 %
+Mansion
+58.5 %
+Villa
+56.3 %
+Architecture
+53 %
+Castle
+53 %
+Palace
+53 %
+Monastery
+51 %
+City
+51 %
+Town
+51 %
+Urban
+51 %
+Campus
+50.7 %
+Apartment Building
+50.6 %
+High Rise
+50.6 %
+Downtown
+50.5 %
+Plaza
+50.5 %
+Town Square
+50.5 %

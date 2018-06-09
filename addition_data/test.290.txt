@@ -1,0 +1,18 @@
+Human
+99.1 %
+People
+99.1 %
+Person
+99.1 %
+Monument
+98.7 %
+Art
+98.1 %
+Sculpture
+98.1 %
+Fountain
+68.2 %
+Water
+68.2 %
+Statue
+62.2 %

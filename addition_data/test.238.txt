@@ -1,0 +1,44 @@
+Human
+98.8 %
+People
+98.8 %
+Person
+98.8 %
+Cafe
+80.8 %
+Restaurant
+80.8 %
+Cafeteria
+68 %
+Balcony
+65.6 %
+Brick
+62.7 %
+Chair
+58.9 %
+Furniture
+58.9 %
+Wall
+55.8 %
+Curtain
+54.4 %
+Home Decor
+54.4 %
+Shutter
+54.4 %
+Window
+54.4 %
+Window Shade
+54.4 %
+Deli
+54.1 %
+Food
+54.1 %
+Shop
+54.1 %
+Building
+50.8 %
+Neighborhood
+50.5 %
+Urban
+50.5 %

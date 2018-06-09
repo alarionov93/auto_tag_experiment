@@ -1,0 +1,64 @@
+Building
+97.7 %
+Cabin
+97.7 %
+Countryside
+97.7 %
+House
+97.7 %
+Housing
+97.7 %
+Nature
+97.7 %
+Outdoors
+97.7 %
+Outhouse
+97.7 %
+Rural
+97.7 %
+Art
+87 %
+Sculpture
+87 %
+Architecture
+76.7 %
+Shrine
+76.7 %
+Temple
+76.7 %
+Worship
+76.7 %
+Yard
+58.6 %
+Path
+58.1 %
+Pavement
+58.1 %
+Sidewalk
+58.1 %
+Walkway
+58.1 %
+Head
+55.6 %
+Alley
+53.3 %
+Alleyway
+53.3 %
+City
+53.3 %
+Road
+53.3 %
+Street
+53.3 %
+Town
+53.3 %
+Urban
+53.3 %
+Backyard
+52.3 %
+Statue
+51.4 %
+Flagstone
+51.1 %
+Trail
+50.7 %

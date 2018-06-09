@@ -1,0 +1,16 @@
+Monument
+98.1 %
+Art
+57.1 %
+Sculpture
+57.1 %
+Statue
+57.1 %
+Sign
+53.8 %
+Building
+50.7 %
+Intersection
+50.5 %
+Road
+50.5 %

@@ -1,0 +1,66 @@
+Brick
+84.6 %
+Hearth
+84.3 %
+Conifer
+81.8 %
+Flora
+81.8 %
+Pine
+81.8 %
+Plant
+81.8 %
+Tree
+81.8 %
+Spruce
+76 %
+Cobblestone
+64 %
+Path
+64 %
+Pavement
+64 %
+Sidewalk
+64 %
+Walkway
+64 %
+Abies
+62.4 %
+Fir
+62.4 %
+Fireplace
+59.5 %
+Building
+58.6 %
+Campus
+56.9 %
+Patio
+52.3 %
+Flagstone
+52 %
+Larch
+51.7 %
+Architecture
+51 %
+Housing
+51 %
+Monastery
+51 %
+Apartment Building
+51 %
+City
+51 %
+High Rise
+51 %
+Town
+51 %
+Urban
+51 %
+Alley
+50.9 %
+Alleyway
+50.9 %
+Road
+50.9 %
+Street
+50.9 %

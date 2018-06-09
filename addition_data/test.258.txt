@@ -1,0 +1,22 @@
+Architecture
+89.7 %
+Building
+89.7 %
+Dome
+89.7 %
+Apartment Building
+85.8 %
+City
+85.8 %
+High Rise
+85.8 %
+Town
+85.8 %
+Urban
+85.8 %
+Office Building
+69.6 %
+Housing
+56.6 %
+Convention Center
+53.3 %

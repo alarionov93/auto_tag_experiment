@@ -1,0 +1,28 @@
+Crowd
+91.6 %
+Human
+91.6 %
+Person
+91.6 %
+People
+57.9 %
+Team
+57.9 %
+Army
+54.5 %
+Military
+54.5 %
+Military Uniform
+54.5 %
+Soldier
+54.5 %
+Troop
+54.5 %
+Kart
+52 %
+Transportation
+52 %
+Vehicle
+52 %
+Leisure Activities
+50.5 %

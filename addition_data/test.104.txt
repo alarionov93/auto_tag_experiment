@@ -1,0 +1,14 @@
+Bowl
+59.1 %
+Dish
+54.3 %
+Food
+54.3 %
+Meal
+54.3 %
+Plate
+54.3 %
+Pottery
+52.1 %
+Saucer
+52.1 %

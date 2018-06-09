@@ -1,0 +1,68 @@
+Outdoors
+64.9 %
+Pond
+64.9 %
+Water
+64.9 %
+Cloud
+64.1 %
+Cumulus
+64.1 %
+Nature
+64.1 %
+Sky
+64.1 %
+Weather
+64.1 %
+Architecture
+60.5 %
+Bell Tower
+60.5 %
+Building
+60.5 %
+Tower
+60.5 %
+Ripple
+56.3 %
+Countryside
+54.6 %
+Hut
+54.6 %
+Rural
+54.6 %
+Shack
+54.6 %
+Shelter
+54.6 %
+Flora
+52.6 %
+Plant
+52.6 %
+Tree
+52.6 %
+Landscape
+52 %
+Scenery
+52 %
+Dock
+51.6 %
+Pier
+51.6 %
+Housing
+51.4 %
+Forest
+50.8 %
+Land
+50.8 %
+Vegetation
+50.8 %
+Dirt Road
+50.7 %
+Gravel
+50.7 %
+Road
+50.7 %
+Conifer
+50.5 %
+Rainforest
+50.5 %

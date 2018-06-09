@@ -1,0 +1,36 @@
+Human
+99 %
+People
+99 %
+Person
+99 %
+Electronics
+86.3 %
+Hardware
+86.3 %
+Silhouette
+57.6 %
+Furniture
+51 %
+Destroyer
+50.8 %
+Military
+50.8 %
+Navy
+50.8 %
+Ship
+50.8 %
+Transportation
+50.8 %
+Vessel
+50.8 %
+Watercraft
+50.8 %
+Face
+50.8 %
+Portrait
+50.8 %
+Apparel
+50.5 %
+Clothing
+50.5 %

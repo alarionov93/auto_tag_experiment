@@ -1,0 +1,44 @@
+Animal
+97.8 %
+Firefly
+97.8 %
+Insect
+97.8 %
+Invertebrate
+97.8 %
+Flora
+74.5 %
+Forest
+74.5 %
+Land
+74.5 %
+Nature
+74.5 %
+Outdoors
+74.5 %
+Plant
+74.5 %
+Tree
+74.5 %
+Vegetation
+74.5 %
+Dirt Road
+68.2 %
+Gravel
+68.2 %
+Road
+68.2 %
+Field
+59 %
+Grassland
+59 %
+Grass
+54.9 %
+Landscape
+53.2 %
+Scenery
+53.2 %
+Bush
+53.2 %
+Jungle
+51.3 %

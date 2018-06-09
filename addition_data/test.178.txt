@@ -1,0 +1,30 @@
+Electronics
+97.5 %
+Monitor
+97.5 %
+Screen
+97.5 %
+TV
+97.5 %
+Television
+97.5 %
+Beverage
+85.6 %
+Coke
+85.6 %
+Drink
+85.6 %
+Chair
+58.9 %
+Furniture
+58.9 %
+Brochure
+53.2 %
+Flyer
+53.2 %
+Paper
+53.2 %
+Poster
+53.2 %
+Shop
+51.9 %

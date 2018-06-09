@@ -1,0 +1,48 @@
+Flora
+99.1 %
+Jar
+99.1 %
+Plant
+99.1 %
+Potted Plant
+99.1 %
+Pottery
+99.1 %
+Vase
+99.1 %
+Couch
+98.9 %
+Furniture
+98.9 %
+Chair
+89.7 %
+Indoors
+83.1 %
+Interior Design
+83.1 %
+Living Room
+83.1 %
+Room
+83.1 %
+Armchair
+67.8 %
+Art
+52.8 %
+Blossom
+52.8 %
+Flower
+52.8 %
+Flower Arrangement
+52.8 %
+Ikebana
+52.8 %
+Ornament
+52.8 %
+Apartment
+52.3 %
+Building
+52.3 %
+Housing
+52.3 %
+Pot
+51.5 %

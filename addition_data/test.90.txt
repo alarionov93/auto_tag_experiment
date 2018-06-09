@@ -1,0 +1,46 @@
+Building
+59.9 %
+Bunker
+59.9 %
+Freight Car
+59.9 %
+Shipping Container
+59.9 %
+Transportation
+59.9 %
+Vehicle
+59.9 %
+Architecture
+55.4 %
+Bell Tower
+55.4 %
+Tower
+55.4 %
+Wall
+53.4 %
+Brick
+53 %
+Tomb
+52.4 %
+Apartment Building
+51.7 %
+City
+51.7 %
+High Rise
+51.7 %
+Town
+51.7 %
+Urban
+51.7 %
+Campus
+51.1 %
+Flora
+50.8 %
+Grass
+50.8 %
+Plant
+50.8 %
+Housing
+50.7 %
+Monastery
+50.7 %

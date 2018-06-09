@@ -1,0 +1,90 @@
+Architecture
+98.6 %
+Building
+98.6 %
+Dome
+98.6 %
+Spire
+98.3 %
+Steeple
+98.3 %
+Tower
+98.3 %
+Bell Tower
+97.5 %
+Church
+74.5 %
+Worship
+74.5 %
+Cathedral
+66.1 %
+Mosque
+60.8 %
+Office Building
+55.3 %
+Housing
+54.4 %
+Monastery
+54.4 %
+Flora
+54.2 %
+Forest
+54.2 %
+Land
+54.2 %
+Nature
+54.2 %
+Outdoors
+54.2 %
+Plant
+54.2 %
+Tree
+54.2 %
+Vegetation
+54.2 %
+Flood
+52.9 %
+Castle
+52.8 %
+Fort
+52.8 %
+Moat
+52.8 %
+Apartment Building
+52.6 %
+City
+52.6 %
+High Rise
+52.6 %
+Rainforest
+52.6 %
+Town
+52.6 %
+Urban
+52.6 %
+River
+51.5 %
+Water
+51.5 %
+Road
+51.4 %
+Street
+51.4 %
+Fence
+51 %
+Hedge
+51 %
+Beacon
+51 %
+Lighthouse
+51 %
+Conifer
+50.8 %
+Yew
+50.8 %
+Harbor
+50.5 %
+Port
+50.5 %
+Waterfront
+50.5 %

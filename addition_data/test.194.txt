@@ -1,0 +1,54 @@
+Building
+94.2 %
+City
+94.2 %
+Town
+94.2 %
+Urban
+94.2 %
+Downtown
+65.1 %
+Flora
+53.4 %
+Jar
+53.4 %
+Plant
+53.4 %
+Potted Plant
+53.4 %
+Pottery
+53.4 %
+Vase
+53.4 %
+Cloud
+52.8 %
+Cumulus
+52.8 %
+Nature
+52.8 %
+Outdoors
+52.8 %
+Sky
+52.8 %
+Weather
+52.8 %
+Alley
+51.5 %
+Alleyway
+51.5 %
+Road
+51.5 %
+Street
+51.5 %
+Neighborhood
+51.3 %
+Housing
+51.1 %
+Metropolis
+51 %
+Apartment Building
+50.9 %
+High Rise
+50.9 %
+Tree
+50.8 %

@@ -1,0 +1,26 @@
+Animal
+98.8 %
+Aquarium
+98.8 %
+Sea Life
+98.8 %
+Water
+98.8 %
+Boat
+71.8 %
+Dinghy
+71.8 %
+Transportation
+71.8 %
+Vessel
+71.8 %
+Watercraft
+71.8 %
+Sport
+52.1 %
+Sports
+52.1 %
+Swimming
+52.1 %
+Leisure Activities
+51.7 %

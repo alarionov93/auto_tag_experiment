@@ -1,0 +1,38 @@
+Tomb
+99.2 %
+Human
+99.2 %
+People
+99.2 %
+Person
+99.2 %
+Monument
+83.7 %
+Art
+74.2 %
+Sculpture
+74.2 %
+Statue
+74.2 %
+Architecture
+54.8 %
+Building
+54.8 %
+City
+54.8 %
+Downtown
+54.8 %
+Plaza
+54.8 %
+Town
+54.8 %
+Town Square
+54.8 %
+Urban
+54.8 %
+Fountain
+52.2 %
+Water
+52.2 %
+Modern Art
+50.6 %

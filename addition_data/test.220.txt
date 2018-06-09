@@ -1,0 +1,34 @@
+Building
+84 %
+House
+84 %
+Housing
+84 %
+Villa
+84 %
+Architecture
+60.9 %
+City
+60.9 %
+Downtown
+60.9 %
+Plaza
+60.9 %
+Town
+60.9 %
+Town Square
+60.9 %
+Urban
+60.9 %
+Office Building
+52.3 %
+Apartment Building
+52.2 %
+High Rise
+52.2 %
+Neighborhood
+50.9 %
+Monastery
+50.7 %
+Convention Center
+50.6 %

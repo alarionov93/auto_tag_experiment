@@ -1,0 +1,28 @@
+Animal
+65.8 %
+Ardeidae
+65.8 %
+Bird
+65.8 %
+Crane Bird
+65.8 %
+Heron
+65.8 %
+Waterfowl
+65.8 %
+Antelope
+56.7 %
+Gazelle
+56.7 %
+Mammal
+56.7 %
+Wildlife
+56.7 %
+Deer
+52.5 %
+Flora
+51.6 %
+Grass
+51.6 %
+Plant
+51.6 %

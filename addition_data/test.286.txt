@@ -1,0 +1,50 @@
+Human
+99.1 %
+People
+99.1 %
+Person
+99.1 %
+Art
+98.8 %
+Sculpture
+98.8 %
+Monument
+90.3 %
+Flora
+79 %
+Oak
+79 %
+Plant
+79 %
+Sycamore
+79 %
+Tree
+79 %
+Statue
+78.3 %
+Conifer
+65.7 %
+Pine
+65.7 %
+Spruce
+64.6 %
+Blossom
+54.7 %
+Flower
+54.7 %
+Birch
+54.3 %
+Forest
+54 %
+Land
+54 %
+Nature
+54 %
+Outdoors
+54 %
+Vegetation
+54 %
+Abies
+51.5 %
+Fir
+51.5 %

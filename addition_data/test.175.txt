@@ -1,0 +1,20 @@
+Animal
+93.9 %
+Beagle
+93.9 %
+Canine
+93.9 %
+Dog
+93.9 %
+Hound
+93.9 %
+Mammal
+93.9 %
+Pet
+93.9 %
+Husky
+70 %
+Labrador Retriever
+54.9 %
+Pug
+50.9 %

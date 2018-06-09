@@ -1,0 +1,30 @@
+Canopy
+94.4 %
+Train
+86 %
+Transportation
+86 %
+Vehicle
+86 %
+Boardwalk
+59.7 %
+Bridge
+59.7 %
+Building
+59.7 %
+Hotel
+56.3 %
+Resort
+56.3 %
+Dock
+52.2 %
+Pier
+52.2 %
+Landscape
+51.9 %
+Nature
+51.9 %
+Outdoors
+51.9 %
+Scenery
+51.9 %

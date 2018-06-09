@@ -1,0 +1,94 @@
+Automobile
+91 %
+Car
+91 %
+Transportation
+91 %
+Vehicle
+91 %
+Architecture
+81 %
+Building
+81 %
+Cathedral
+81 %
+Church
+81 %
+Worship
+81 %
+House
+79.7 %
+Housing
+79.7 %
+Villa
+79.7 %
+Mansion
+73.7 %
+Sedan
+56.8 %
+Arch
+56.1 %
+Arched
+56.1 %
+Court
+55.2 %
+Spire
+54.9 %
+Steeple
+54.9 %
+Tower
+54.9 %
+Coupe
+53.3 %
+Sports Car
+53.3 %
+Outdoors
+52.7 %
+Countryside
+52.2 %
+Nature
+52.2 %
+Dirt Road
+52.1 %
+Gravel
+52.1 %
+Road
+52.1 %
+Bush
+52 %
+Flora
+52 %
+Plant
+52 %
+Vegetation
+52 %
+Forest
+51 %
+Land
+51 %
+Tree
+51 %
+Dome
+51 %
+Backyard
+50.9 %
+Yard
+50.9 %
+Apartment Building
+50.8 %
+City
+50.8 %
+High Rise
+50.8 %
+Town
+50.8 %
+Urban
+50.8 %
+Park
+50.6 %
+Path
+50.5 %
+Trail
+50.5 %
+Suv
+50.5 %

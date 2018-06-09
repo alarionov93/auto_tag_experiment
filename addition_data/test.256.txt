@@ -1,0 +1,80 @@
+Architecture
+98.2 %
+Bell Tower
+98.2 %
+Building
+98.2 %
+Tower
+98.2 %
+Housing
+80 %
+Monastery
+80 %
+Tomb
+77.3 %
+Dome
+77.1 %
+Clock Tower
+63.7 %
+House
+61 %
+Villa
+61 %
+Temple
+57.9 %
+Worship
+57.9 %
+Gate
+57.7 %
+Crypt
+55.6 %
+Church
+55.6 %
+Gazebo
+52.5 %
+Arch
+52.3 %
+Arched
+52.3 %
+Vault Ceiling
+52.3 %
+Countryside
+52.3 %
+Hut
+52.3 %
+Nature
+52.3 %
+Outdoors
+52.3 %
+Rural
+52.3 %
+Shack
+52.3 %
+Shelter
+52.3 %
+Mansion
+52 %
+City
+52 %
+Town
+52 %
+Urban
+52 %
+Office Building
+51.9 %
+Beacon
+51.7 %
+Lighthouse
+51.7 %
+Flora
+51.3 %
+Plant
+51.3 %
+Tree
+51.3 %
+Spire
+51.3 %
+Steeple
+51.3 %
+Neighborhood
+51.1 %

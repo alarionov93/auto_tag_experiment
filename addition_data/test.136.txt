@@ -1,0 +1,38 @@
+Landscape
+70.7 %
+Nature
+70.7 %
+Outdoors
+70.7 %
+Scenery
+70.7 %
+Freeway
+53.9 %
+Road
+53.9 %
+Building
+51.7 %
+Housing
+51.7 %
+Coast
+51.1 %
+Ocean
+51.1 %
+Sea
+51.1 %
+Water
+51.1 %
+Hotel
+50.8 %
+Resort
+50.8 %
+Apartment Building
+50.5 %
+City
+50.5 %
+High Rise
+50.5 %
+Town
+50.5 %
+Urban
+50.5 %

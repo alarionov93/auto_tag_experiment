@@ -1,0 +1,38 @@
+Transportation
+80.7 %
+Vessel
+80.7 %
+Watercraft
+80.7 %
+Yacht
+80.7 %
+Jet Ski
+78.1 %
+Bridge
+77.8 %
+Building
+77.8 %
+Boat
+67.7 %
+Rowboat
+67.7 %
+Outdoors
+65.2 %
+River
+65.2 %
+Water
+65.2 %
+Port
+62.7 %
+Waterfront
+62.7 %
+Harbor
+62 %
+Dinghy
+60.6 %
+Dock
+58.5 %
+Pier
+58.5 %
+Marina
+58.5 %

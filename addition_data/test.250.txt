@@ -1,0 +1,26 @@
+Building
+59.6 %
+Architecture
+57.1 %
+Castle
+57.1 %
+House
+57.1 %
+Housing
+57.1 %
+Mansion
+57.1 %
+Palace
+57.1 %
+Apartment Building
+56.6 %
+City
+56.6 %
+High Rise
+56.6 %
+Town
+56.6 %
+Urban
+56.6 %
+Office Building
+52.7 %

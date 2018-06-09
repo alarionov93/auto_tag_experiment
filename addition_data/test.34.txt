@@ -1,0 +1,46 @@
+Aerial View
+97.7 %
+Landscape
+97.7 %
+Nature
+97.7 %
+Outdoors
+97.7 %
+Scenery
+97.7 %
+Building
+89.8 %
+City
+89.8 %
+Town
+89.8 %
+Urban
+89.8 %
+Downtown
+76.4 %
+Brick
+62.2 %
+Neighborhood
+52.3 %
+Office Building
+51.3 %
+Architecture
+51.2 %
+Convention Center
+51.2 %
+Plaza
+51.1 %
+Town Square
+51.1 %
+Countryside
+51.1 %
+Housing
+51 %
+Intersection
+50.7 %
+Metropolis
+50.7 %
+Road
+50.7 %
+Campus
+50.6 %

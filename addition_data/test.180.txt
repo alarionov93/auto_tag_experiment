@@ -1,0 +1,38 @@
+Transportation
+94.7 %
+Truck
+94.7 %
+Vehicle
+94.7 %
+Blizzard
+88.9 %
+Nature
+88.9 %
+Outdoors
+88.9 %
+Snow
+88.9 %
+Storm
+88.9 %
+Weather
+88.9 %
+Winter
+88.9 %
+Bulldozer
+85.6 %
+Snowplow
+85.6 %
+Tractor
+85.6 %
+Offroad
+56.8 %
+Automobile
+54.5 %
+Car
+54.5 %
+Jeep
+54.5 %
+Van
+52 %
+Suv
+50.9 %

@@ -1,0 +1,30 @@
+Architecture
+98.9 %
+Bell Tower
+98.9 %
+Building
+98.9 %
+Tower
+98.9 %
+Dome
+97.8 %
+Church
+95.3 %
+Worship
+95.3 %
+Mosque
+76.4 %
+Housing
+75.7 %
+Monastery
+75.7 %
+Spire
+52.8 %
+Steeple
+52.8 %
+Arch
+51.3 %
+Arched
+51.3 %
+Vault Ceiling
+51.3 %

@@ -1,0 +1,46 @@
+Architecture
+85.7 %
+Bell Tower
+85.7 %
+Building
+85.7 %
+Tower
+85.7 %
+Dome
+76.8 %
+Church
+59.2 %
+Worship
+59.2 %
+House
+55.7 %
+Housing
+55.7 %
+Villa
+55.7 %
+Monastery
+54.5 %
+Path
+52.8 %
+Backyard
+51.1 %
+Outdoors
+51.1 %
+Yard
+51.1 %
+Office Building
+51 %
+City
+50.8 %
+Town
+50.8 %
+Urban
+50.8 %
+Fence
+50.7 %
+Flora
+50.7 %
+Hedge
+50.7 %
+Plant
+50.7 %

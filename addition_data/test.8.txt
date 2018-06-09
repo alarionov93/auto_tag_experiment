@@ -1,0 +1,30 @@
+Human
+56.5 %
+Military
+56.5 %
+Military Uniform
+56.5 %
+Person
+56.5 %
+Soldier
+56.5 %
+Cap
+52.7 %
+Clothing
+52.7 %
+Hat
+52.7 %
+Cushion
+52.6 %
+Home Decor
+52.6 %
+Rock
+51.2 %
+Head
+50.7 %
+Flora
+50.6 %
+Plant
+50.6 %
+Tree
+50.6 %

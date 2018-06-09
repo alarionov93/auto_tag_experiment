@@ -1,0 +1,36 @@
+Tomb
+97 %
+Plaque
+78.6 %
+Backyard
+63.7 %
+Outdoors
+63.7 %
+Yard
+63.7 %
+Patio
+58.2 %
+Pergola
+58.2 %
+Porch
+58.2 %
+Crucifix
+53.8 %
+Emblem
+53.8 %
+Bush
+52.2 %
+Flora
+52.2 %
+Plant
+52.2 %
+Vegetation
+52.2 %
+Soil
+51.9 %
+Sand
+51 %
+Path
+50.5 %
+Trail
+50.5 %

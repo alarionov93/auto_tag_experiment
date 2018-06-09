@@ -1,0 +1,22 @@
+Flora
+98.3 %
+Food
+98.3 %
+Plant
+98.3 %
+Potato
+98.3 %
+Produce
+98.3 %
+Vegetable
+98.3 %
+Bowl
+62.3 %
+Dish
+54.2 %
+Meal
+54.2 %
+Plate
+54.2 %
+Platter
+54.2 %

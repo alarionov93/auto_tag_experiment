@@ -1,0 +1,78 @@
+Flora
+97 %
+Jar
+97 %
+Plant
+97 %
+Potted Plant
+97 %
+Pottery
+97 %
+Vase
+97 %
+Acanthaceae
+72.1 %
+Blossom
+72.1 %
+Flower
+72.1 %
+Forest
+69 %
+Jungle
+69 %
+Land
+69 %
+Nature
+69 %
+Outdoors
+69 %
+Tree
+69 %
+Vegetation
+69 %
+Rainforest
+64.2 %
+Arecaceae
+56.6 %
+Palm Tree
+56.6 %
+Countryside
+54.8 %
+Bush
+54.3 %
+Dirt Road
+53.2 %
+Gravel
+53.2 %
+Road
+53.2 %
+Conifer
+52.2 %
+Grass
+52 %
+Asteraceae
+51.5 %
+Backyard
+51.4 %
+Yard
+51.4 %
+Yew
+51.1 %
+Landscape
+50.9 %
+Scenery
+50.9 %
+Building
+50.7 %
+City
+50.7 %
+Town
+50.7 %
+Urban
+50.7 %
+Aster
+50.6 %
+Herbs
+50.6 %
+Planter
+50.6 %

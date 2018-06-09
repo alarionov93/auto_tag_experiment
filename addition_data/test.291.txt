@@ -1,0 +1,32 @@
+Barge
+95.7 %
+Boat
+95.7 %
+Transportation
+95.7 %
+Vessel
+95.7 %
+Watercraft
+95.7 %
+Canal
+75.5 %
+Outdoors
+75.5 %
+Water
+75.5 %
+Harbor
+64.1 %
+Port
+64.1 %
+Waterfront
+64.1 %
+Landscape
+55.2 %
+Nature
+55.2 %
+Scenery
+55.2 %
+Ferry
+55 %
+Marina
+50.8 %

@@ -1,0 +1,44 @@
+Architecture
+85.5 %
+Building
+85.5 %
+Column
+85.5 %
+Pillar
+85.5 %
+Office Building
+61.4 %
+Apartment Building
+59.3 %
+City
+59.3 %
+High Rise
+59.3 %
+Town
+59.3 %
+Urban
+59.3 %
+House
+55.3 %
+Housing
+55.3 %
+Villa
+55.3 %
+Castle
+55 %
+Mansion
+55 %
+Palace
+55 %
+Monastery
+54.7 %
+Indoors
+50.9 %
+Lobby
+50.9 %
+Room
+50.9 %
+Road
+50.7 %
+Street
+50.7 %

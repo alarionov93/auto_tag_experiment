@@ -1,0 +1,30 @@
+Building
+82.1 %
+House
+82.1 %
+Housing
+82.1 %
+Villa
+82.1 %
+Architecture
+80.2 %
+Bell Tower
+80.2 %
+Tower
+80.2 %
+Animal
+62.9 %
+Bird
+62.9 %
+Vulture
+62.9 %
+Dome
+53.9 %
+Church
+53.1 %
+Worship
+53.1 %
+Mansion
+52.2 %
+Monastery
+51.4 %

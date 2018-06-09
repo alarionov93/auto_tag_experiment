@@ -1,0 +1,28 @@
+Intersection
+98.8 %
+Road
+98.8 %
+Building
+52.9 %
+City
+52 %
+Street
+52 %
+Town
+52 %
+Urban
+52 %
+Neighborhood
+52 %
+Downtown
+51.7 %
+Housing
+50.8 %
+Apartment Building
+50.6 %
+High Rise
+50.6 %
+Dirt Road
+50.6 %
+Gravel
+50.6 %

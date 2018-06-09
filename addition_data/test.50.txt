@@ -1,0 +1,6 @@
+Freeway
+97.5 %
+Road
+97.5 %
+Highway
+63.5 %

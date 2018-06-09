@@ -1,0 +1,28 @@
+Human
+98.7 %
+People
+98.7 %
+Person
+98.7 %
+Appliance
+98.1 %
+Electrical Device
+98.1 %
+Oven
+98.1 %
+Apparel
+50.9 %
+Clothing
+50.9 %
+Lathe
+50.9 %
+Machine
+50.9 %
+Face
+50.7 %
+Portrait
+50.7 %
+Console
+50.5 %
+Electronics
+50.5 %

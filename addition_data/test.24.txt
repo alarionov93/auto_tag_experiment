@@ -1,0 +1,38 @@
+Human
+98.9 %
+People
+98.9 %
+Person
+98.9 %
+Clothing
+97.8 %
+Coat
+97.8 %
+Overcoat
+97.8 %
+Suit
+97.8 %
+Face
+58.7 %
+Portrait
+58.7 %
+Art
+58.1 %
+Smile
+54.8 %
+Computer
+51.9 %
+Electronics
+51.9 %
+Laptop
+51.9 %
+Pc
+51.9 %
+Paper
+51.7 %
+Apparel
+50.7 %
+Photo Booth
+50.7 %
+Female
+50.5 %

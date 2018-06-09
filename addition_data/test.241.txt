@@ -1,0 +1,48 @@
+Automobile
+80.4 %
+Car
+80.4 %
+Transportation
+80.4 %
+Vehicle
+80.4 %
+Sedan
+56.1 %
+Building
+55.8 %
+City
+55.8 %
+Road
+55.8 %
+Street
+55.8 %
+Town
+55.8 %
+Urban
+55.8 %
+Bumper
+55.2 %
+Downtown
+53.6 %
+Suv
+51.3 %
+Architecture
+51.2 %
+Plaza
+51.2 %
+Town Square
+51.2 %
+License
+51.1 %
+License Plate
+51.1 %
+Text
+51.1 %
+Housing
+51.1 %
+Leisure Activities
+50.7 %
+Intersection
+50.5 %
+Neighborhood
+50.5 %

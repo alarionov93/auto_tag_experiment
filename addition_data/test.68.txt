@@ -1,0 +1,46 @@
+Apartment Building
+94.2 %
+Building
+94.2 %
+City
+94.2 %
+High Rise
+94.2 %
+Town
+94.2 %
+Urban
+94.2 %
+Awning
+88.1 %
+Canopy
+88.1 %
+Housing
+72.5 %
+Balcony
+62.4 %
+House
+60.4 %
+Villa
+60.4 %
+Alley
+56.1 %
+Alleyway
+56.1 %
+Road
+56.1 %
+Street
+56.1 %
+Curtain
+55.8 %
+Home Decor
+55.8 %
+Shutter
+55.8 %
+Window
+55.8 %
+Window Shade
+55.8 %
+Neighborhood
+55.2 %
+Kiosk
+52 %

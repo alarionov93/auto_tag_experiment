@@ -1,0 +1,30 @@
+Brick
+98.6 %
+Building
+57.6 %
+Cottage
+57.6 %
+House
+57.6 %
+Housing
+57.6 %
+Villa
+56.4 %
+Apartment Building
+51.3 %
+City
+51.3 %
+High Rise
+51.3 %
+Town
+51.3 %
+Urban
+51.3 %
+Architecture
+50.7 %
+Downtown
+50.7 %
+Plaza
+50.7 %
+Town Square
+50.7 %

@@ -1,0 +1,10 @@
+Animal
+93.4 %
+Fish
+93.4 %
+Sturgeon
+93.4 %
+Ground
+65 %
+Soil
+65 %

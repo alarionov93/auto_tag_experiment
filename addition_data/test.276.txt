@@ -1,0 +1,60 @@
+Flora
+91.2 %
+Plant
+91.2 %
+Vine
+91.2 %
+Ivy
+74.7 %
+Animal
+72.5 %
+Zoo
+72.5 %
+Monument
+67 %
+Art
+61.4 %
+Gargoyle
+61.4 %
+Ornament
+61.4 %
+Sculpture
+61.4 %
+Statue
+61.4 %
+Architecture
+59.6 %
+Building
+59.6 %
+Shrine
+59.6 %
+Temple
+59.6 %
+Worship
+59.6 %
+Canine
+56.3 %
+Fox
+56.3 %
+Grey Fox
+56.3 %
+Mammal
+56.3 %
+Wildlife
+56.3 %
+Tomb
+55.3 %
+Jar
+52.6 %
+Potted Plant
+52.6 %
+Pottery
+52.6 %
+Vase
+52.6 %
+Oak
+50.7 %
+Sycamore
+50.7 %
+Tree
+50.7 %

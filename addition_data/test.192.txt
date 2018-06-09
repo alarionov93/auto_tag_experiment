@@ -1,0 +1,18 @@
+Building
+94.2 %
+City
+94.2 %
+Town
+94.2 %
+Urban
+94.2 %
+Downtown
+71.3 %
+Housing
+52.3 %
+Neighborhood
+51.7 %
+Metropolis
+51.2 %
+High Rise
+50.7 %

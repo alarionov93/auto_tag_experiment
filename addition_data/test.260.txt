@@ -1,0 +1,48 @@
+Fence
+84.8 %
+Flora
+84.8 %
+Hedge
+84.8 %
+Plant
+84.8 %
+Conifer
+81.4 %
+Tree
+81.4 %
+Building
+77.3 %
+Office Building
+77.3 %
+Abies
+67.8 %
+Fir
+67.8 %
+Apartment Building
+61 %
+City
+61 %
+High Rise
+61 %
+Town
+61 %
+Urban
+61 %
+Yew
+57.3 %
+Road
+53 %
+Street
+53 %
+Pine
+51.3 %
+Arecaceae
+50.9 %
+Palm Tree
+50.9 %
+Housing
+50.9 %
+Downtown
+50.6 %
+Moss
+50.5 %

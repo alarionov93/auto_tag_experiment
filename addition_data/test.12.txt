@@ -1,0 +1,58 @@
+Luggage
+98.3 %
+Suitcase
+98.3 %
+Studio
+95 %
+Army
+86.2 %
+Human
+86.2 %
+Military
+86.2 %
+Military Uniform
+86.2 %
+Person
+86.2 %
+Soldier
+86.2 %
+Tank
+86.2 %
+Transportation
+86.2 %
+Vehicle
+86.2 %
+Chair
+61.1 %
+Furniture
+61.1 %
+Electronics
+57.4 %
+Hardware
+57.4 %
+Outdoors
+53.8 %
+Snow
+53.8 %
+Apparel
+53.3 %
+Clothing
+53.3 %
+Face
+51.9 %
+Portrait
+51.9 %
+Lathe
+51.3 %
+Machine
+51.3 %
+Destroyer
+50.7 %
+Navy
+50.7 %
+Ship
+50.7 %
+Vessel
+50.7 %
+Watercraft
+50.7 %

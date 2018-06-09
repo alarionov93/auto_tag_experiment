@@ -1,0 +1,24 @@
+Animal
+96.6 %
+Beagle
+96.6 %
+Canine
+96.6 %
+Dog
+96.6 %
+Hound
+96.6 %
+Mammal
+96.6 %
+Pet
+96.6 %
+Pointer
+63.8 %
+Hardwood
+61.9 %
+Wood
+61.9 %
+Labrador Retriever
+58.5 %
+Adorable
+57 %

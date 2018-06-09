@@ -1,0 +1,62 @@
+Automobile
+93.3 %
+Car
+93.3 %
+Coupe
+93.3 %
+Sports Car
+93.3 %
+Transportation
+93.3 %
+Vehicle
+93.3 %
+Building
+90 %
+House
+90 %
+Housing
+90 %
+Villa
+90 %
+Suv
+81.9 %
+Architecture
+78.2 %
+Dome
+78.2 %
+Mosque
+78.2 %
+Worship
+78.2 %
+Sedan
+68.4 %
+Parking
+68.2 %
+Parking Lot
+68.2 %
+Gazebo
+62.5 %
+Neighborhood
+56 %
+Urban
+56 %
+Pickup Truck
+54.2 %
+Truck
+54.2 %
+Van
+53.8 %
+Flora
+52.4 %
+Plant
+52.4 %
+Tree
+52.4 %
+Antique Car
+51 %
+City
+51 %
+Town
+51 %
+Office Building
+50.9 %

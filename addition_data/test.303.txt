@@ -1,0 +1,54 @@
+Human
+99.3 %
+People
+99.3 %
+Person
+99.3 %
+Bulldozer
+94.2 %
+Snowplow
+94.2 %
+Tractor
+94.2 %
+Transportation
+94.2 %
+Vehicle
+94.2 %
+Outdoors
+89 %
+Snow
+89 %
+Motorcycle
+86.3 %
+Sidecar
+86.3 %
+Machine
+55.9 %
+Motor
+55.9 %
+Antique Car
+55.1 %
+Automobile
+55.1 %
+Car
+55.1 %
+Engine
+53.1 %
+Suv
+52.7 %
+Sedan
+52.5 %
+Locomotive
+51.3 %
+Train
+51.3 %
+Diamond
+51 %
+Gemstone
+51 %
+Jewelry
+51 %
+Ornament
+51 %
+Van
+50.8 %

@@ -1,0 +1,32 @@
+Aircraft
+89.4 %
+Airplane
+89.4 %
+Transportation
+89.4 %
+Bomb
+87.9 %
+Weaponry
+87.9 %
+Train
+87.3 %
+Vehicle
+87.3 %
+Biplane
+87 %
+Warplane
+82 %
+Generator
+81.5 %
+Machine
+81.5 %
+Plywood
+55.9 %
+Wood
+55.9 %
+Appliance
+54.1 %
+Electrical Device
+54.1 %
+Oven
+54.1 %

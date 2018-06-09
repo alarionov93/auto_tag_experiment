@@ -1,0 +1,14 @@
+Brick
+88.4 %
+Indoors
+58.7 %
+Interior Design
+58.7 %
+Apartment
+52.8 %
+Building
+52.8 %
+Housing
+52.8 %
+Furniture
+51.9 %

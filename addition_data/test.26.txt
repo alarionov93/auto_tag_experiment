@@ -1,0 +1,22 @@
+Human
+99.3 %
+People
+99.3 %
+Person
+99.3 %
+White Board
+68.8 %
+Teacher
+57 %
+Audience
+54.4 %
+Crowd
+54.4 %
+Speech
+54.4 %
+Apparel
+51.5 %
+Clothing
+51.5 %
+Female
+50.5 %

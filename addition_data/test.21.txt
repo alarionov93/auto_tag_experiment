@@ -1,0 +1,38 @@
+Bathroom
+65 %
+Indoors
+65 %
+Interior Design
+65 %
+Room
+65 %
+Appliance
+59.1 %
+Electrical Device
+59.1 %
+Oven
+59.1 %
+Computer Hardware
+50.8 %
+Electronics
+50.8 %
+Hardware
+50.8 %
+Alley
+50.6 %
+Alleyway
+50.6 %
+Building
+50.6 %
+City
+50.6 %
+Road
+50.6 %
+Street
+50.6 %
+Town
+50.6 %
+Urban
+50.6 %
+Lighting
+50.5 %

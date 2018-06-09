@@ -1,0 +1,50 @@
+Freight Car
+57.9 %
+Shipping Container
+57.9 %
+Transportation
+57.9 %
+Vehicle
+57.9 %
+Brick
+56.8 %
+Flora
+56.1 %
+Ivy
+56.1 %
+Plant
+56.1 %
+Architecture
+55.4 %
+Bell Tower
+55.4 %
+Building
+55.4 %
+Tower
+55.4 %
+Backyard
+53.8 %
+Outdoors
+53.8 %
+Yard
+53.8 %
+Bunker
+52.3 %
+Countryside
+51.8 %
+Hut
+51.8 %
+Nature
+51.8 %
+Rural
+51.8 %
+Shack
+51.8 %
+Shelter
+51.8 %
+Dirt Road
+50.8 %
+Gravel
+50.8 %
+Road
+50.8 %

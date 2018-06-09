@@ -1,0 +1,40 @@
+Kiosk
+56.5 %
+Asphalt
+55.1 %
+Tarmac
+55.1 %
+Brick
+53.2 %
+Apartment Building
+53.2 %
+Building
+53.2 %
+City
+53.2 %
+High Rise
+53.2 %
+Town
+53.2 %
+Urban
+53.2 %
+Alphabet
+51.6 %
+Ampersand
+51.6 %
+Text
+51.6 %
+Neighborhood
+51.4 %
+Intersection
+51.3 %
+Road
+51.3 %
+Alley
+50.8 %
+Alleyway
+50.8 %
+Street
+50.8 %
+Housing
+50.6 %

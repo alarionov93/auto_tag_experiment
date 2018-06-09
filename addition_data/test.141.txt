@@ -1,0 +1,44 @@
+Flora
+96 %
+Leaf
+96 %
+Plant
+96 %
+Herbs
+93.4 %
+Jar
+93.4 %
+Mint
+93.4 %
+Planter
+93.4 %
+Potted Plant
+93.4 %
+Pottery
+93.4 %
+Vase
+93.4 %
+Blossom
+91.2 %
+Flower
+91.2 %
+Geranium
+91.2 %
+Vine
+86.2 %
+Ball
+56.3 %
+Sphere
+56.3 %
+Vegetation
+50.8 %
+Flower Arrangement
+50.7 %
+Ornament
+50.7 %
+Oak
+50.7 %
+Sycamore
+50.7 %
+Tree
+50.7 %

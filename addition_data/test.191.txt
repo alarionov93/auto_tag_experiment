@@ -1,0 +1,44 @@
+Animal
+97.7 %
+Sea Life
+97.7 %
+Aquarium
+85.4 %
+Water
+85.4 %
+Cave
+79.6 %
+Nature
+79.6 %
+Flora
+65.1 %
+Forest
+65.1 %
+Land
+65.1 %
+Outdoors
+65.1 %
+Plant
+65.1 %
+Rainforest
+65.1 %
+Tree
+65.1 %
+Vegetation
+65.1 %
+Fish
+64.1 %
+Surgeonfish
+64.1 %
+Coral Reef
+63.9 %
+Ocean
+63.9 %
+Reef
+63.9 %
+Sea
+63.9 %
+Algae
+56.3 %
+Moss
+50.7 %

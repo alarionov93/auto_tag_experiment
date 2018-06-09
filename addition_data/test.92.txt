@@ -1,0 +1,22 @@
+Automobile
+99.1 %
+Car
+99.1 %
+Transportation
+99.1 %
+Vehicle
+99.1 %
+Couch
+97.6 %
+Furniture
+97.6 %
+Banister
+79.4 %
+Handrail
+79.4 %
+Chair
+64 %
+Train
+57.9 %
+Kiosk
+57.2 %

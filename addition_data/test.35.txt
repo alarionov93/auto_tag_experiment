@@ -1,0 +1,44 @@
+Aerial View
+99 %
+Landscape
+99 %
+Nature
+99 %
+Outdoors
+99 %
+Scenery
+99 %
+Building
+92 %
+City
+92 %
+Town
+92 %
+Urban
+92 %
+Downtown
+79.9 %
+Canyon
+61.5 %
+Mountain
+61.5 %
+Valley
+61.5 %
+Neighborhood
+53.9 %
+Arena
+53.6 %
+Stadium
+53.6 %
+Metropolis
+51.2 %
+Intersection
+51 %
+Road
+51 %
+Brick
+50.6 %
+Apartment Building
+50.5 %
+High Rise
+50.5 %

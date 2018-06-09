@@ -1,0 +1,36 @@
+Road
+92.9 %
+Freeway
+68.6 %
+Highway
+68.6 %
+Path
+62.9 %
+Trail
+62.9 %
+Flora
+61.1 %
+Forest
+61.1 %
+Land
+61.1 %
+Nature
+61.1 %
+Outdoors
+61.1 %
+Plant
+61.1 %
+Tree
+61.1 %
+Vegetation
+61.1 %
+Dirt Road
+57.9 %
+Gravel
+57.9 %
+Asphalt
+55.7 %
+Tarmac
+55.7 %
+Grove
+50.8 %

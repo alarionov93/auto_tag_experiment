@@ -1,0 +1,40 @@
+Automobile
+77.6 %
+Car
+77.6 %
+Coupe
+77.6 %
+Sports Car
+77.6 %
+Transportation
+77.6 %
+Vehicle
+77.6 %
+Suv
+70.6 %
+Asphalt
+62.3 %
+Tarmac
+62.3 %
+Sedan
+56.5 %
+Convertible
+53 %
+Bumper
+52.6 %
+Van
+51.7 %
+Intersection
+50.9 %
+Road
+50.9 %
+Dirt Road
+50.9 %
+Gravel
+50.9 %
+Antique Car
+50.6 %
+Windshield
+50.5 %
+Caravan
+50.5 %

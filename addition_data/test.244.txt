@@ -1,0 +1,32 @@
+Architecture
+82.7 %
+Building
+82.7 %
+City
+82.7 %
+Downtown
+82.7 %
+Plaza
+82.7 %
+Town
+82.7 %
+Town Square
+82.7 %
+Urban
+82.7 %
+Intersection
+55 %
+Road
+55 %
+Street
+54.4 %
+Housing
+54.1 %
+Apartment Building
+53.1 %
+High Rise
+53.1 %
+Leisure Activities
+50.5 %
+Neighborhood
+50.5 %

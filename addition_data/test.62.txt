@@ -1,0 +1,24 @@
+Alley
+54.4 %
+Alleyway
+54.4 %
+Building
+54.4 %
+City
+54.4 %
+Road
+54.4 %
+Street
+54.4 %
+Town
+54.4 %
+Urban
+54.4 %
+Kiosk
+53 %
+Architecture
+51 %
+Housing
+51 %
+Monastery
+51 %

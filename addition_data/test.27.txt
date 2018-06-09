@@ -1,0 +1,42 @@
+Human
+99.2 %
+People
+99.2 %
+Person
+99.2 %
+Flora
+99 %
+Jar
+99 %
+Plant
+99 %
+Potted Plant
+99 %
+Pottery
+99 %
+Vase
+99 %
+Audience
+90.2 %
+Crowd
+90.2 %
+Speech
+90.2 %
+Art
+58.1 %
+Blossom
+58.1 %
+Flower
+58.1 %
+Flower Arrangement
+58.1 %
+Ikebana
+58.1 %
+Ornament
+58.1 %
+Pot
+55 %
+Worker
+54 %
+Flower Bouquet
+51.3 %

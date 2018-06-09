@@ -1,0 +1,36 @@
+Blossom
+90.7 %
+Flora
+90.7 %
+Flower
+90.7 %
+Geranium
+90.7 %
+Plant
+90.7 %
+Asteraceae
+88.8 %
+Poppy
+74.7 %
+Dahlia
+62.5 %
+Petal
+57.1 %
+Aster
+55.2 %
+Aquilegia
+51.4 %
+Lily
+51.4 %
+Vine
+51.3 %
+Flower Arrangement
+51.2 %
+Flower Bouquet
+51.2 %
+Ornament
+51.2 %
+Anther
+50.7 %
+Anemone
+50.6 %

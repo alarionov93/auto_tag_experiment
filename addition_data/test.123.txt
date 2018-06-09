@@ -1,0 +1,62 @@
+Flora
+85.5 %
+Forest
+85.5 %
+Land
+85.5 %
+Nature
+85.5 %
+Outdoors
+85.5 %
+Plant
+85.5 %
+Rainforest
+85.5 %
+Tree
+85.5 %
+Vegetation
+85.5 %
+Jungle
+78.9 %
+Bush
+56.1 %
+Arecaceae
+54.9 %
+Palm Tree
+54.9 %
+Countryside
+53 %
+Dirt Road
+52.6 %
+Gravel
+52.6 %
+Road
+52.6 %
+Backyard
+52.3 %
+Yard
+52.3 %
+Landscape
+52.2 %
+Scenery
+52.2 %
+Conifer
+51.6 %
+Grass
+50.9 %
+Mountain
+50.7 %
+Aster
+50.6 %
+Blossom
+50.6 %
+Flower
+50.6 %
+Building
+50.6 %
+City
+50.6 %
+Town
+50.6 %
+Urban
+50.6 %

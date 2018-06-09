@@ -1,0 +1,66 @@
+Porch
+88.7 %
+Building
+68.1 %
+Cottage
+68.1 %
+House
+68.1 %
+Housing
+68.1 %
+Villa
+64.6 %
+Countryside
+63.8 %
+Hut
+63.8 %
+Nature
+63.8 %
+Outdoors
+63.8 %
+Rural
+63.8 %
+Shack
+63.8 %
+Shelter
+63.8 %
+Neighborhood
+52.7 %
+Urban
+52.7 %
+Mansion
+52.7 %
+City
+52.5 %
+Town
+52.5 %
+Architecture
+52.2 %
+Monastery
+52.2 %
+Column
+52.2 %
+Parthenon
+52.2 %
+Pillar
+52.2 %
+Shrine
+52.2 %
+Temple
+52.2 %
+Worship
+52.2 %
+Ground
+51.5 %
+Soil
+51.5 %
+Castle
+51.4 %
+Palace
+51.4 %
+Lumber
+51.3 %
+Wood
+51.3 %
+Church
+50.6 %
